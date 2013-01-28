@@ -1,5 +1,5 @@
 public class Main {
-    public int metodi(){
+    public static int metodi(){
         return 0;
     }
 }
